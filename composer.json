@@ -2,7 +2,7 @@
   "name": "lindomarc/mercadopago-dx-php-laravel",
   "description": "FORK: Mercado Pago PHP SDK",
   "type": "library",
-  "homepage": "https://github.com/lindomarc/dx-php-laravel",
+  "homepage": "https://github.com/Lindomarc/mercadopago-sdk-php-laravel",
   "license": "MIT",
   "version": "2.4.7",
   "config": {
