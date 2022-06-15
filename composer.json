@@ -1,8 +1,8 @@
 {
-  "name": "mercadopago/dx-php",
+  "name": "lindomarc/dx-php-laravel",
   "description": "Mercado Pago PHP SDK",
   "type": "library",
-  "homepage": "https://github.com/mercadopago/sdk-php",
+  "homepage": "https://github.com/lindomarc/dx-php-laravel",
   "license": "MIT",
   "version": "2.4.7",
   "config": {
